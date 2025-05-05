@@ -18,7 +18,7 @@ h3{
 
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    position: fixed;
+    position: flex;
     text-align: center;
     width: 400px;
     margin: auto;
@@ -45,7 +45,7 @@ p{
 }
 
 .game-img{
-    position: fixed;
+    position: flex;
     margin: auto;
     width: 100px;
     height: 100px;
