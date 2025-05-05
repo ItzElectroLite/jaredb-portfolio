@@ -45,10 +45,14 @@ p{
 }
 
 .game-img{
-    position: flex;
-    margin: auto;
     width: 100px;
     height: 100px;
+}
+
+.images{
+    text-align: center;
+    position: flex;
+    padding-top: 20px;
 }
 
 body{
