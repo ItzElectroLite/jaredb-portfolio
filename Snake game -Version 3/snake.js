@@ -117,7 +117,7 @@ function drawGame(){
 
 function keyDown(e){
     switch(e.key){
-        case 'ArrowLeft':
+        case 'A':
             // Prevent reversing directly
             if(velocityX !== 1){
                 velocityX = -1;
@@ -125,21 +125,21 @@ function keyDown(e){
             }
             break; 
         
-        case 'ArrowRight':
+        case 'D':
             if(velocityX !== -1){
                 velocityX = 1;
                 velocityY = 0;
             }
             break; 
         
-        case 'ArrowUp':
+        case 'W':
             if(velocityY !== 1){
                 velocityX = 0;
                 velocityY = -1;
             }
             break; 
         
-        case 'ArrowDown':
+        case 'S':
             if(velocityY !== -1){
                 velocityX = 0;
                 velocityY = 1;
