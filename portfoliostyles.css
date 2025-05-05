@@ -18,10 +18,10 @@ h3{
 
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
     text-align: center;
     width: 400px;
-    margin: 0;
-    padding: 0;
+    margin: auto;
 }
 
 .sidenav {
@@ -45,7 +45,8 @@ p{
 }
 
 .game-img{
-    padding-left: 715px;
+    position: fixed;
+    margin: auto;
     width: 100px;
     height: 100px;
 }
