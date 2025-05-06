@@ -122,6 +122,8 @@ button#resetButton{
 }
 
 #gameOver {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
     color: red;
     font-size: 20px;
     margin: auto;
