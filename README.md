@@ -2,5 +2,8 @@
 Portfolio project for UWGB Computer Science 201
 LINK: https://itzelectrolite.github.io/jaredb-portfolio/
 
-If link does not load peoperly, copy, paste, and enter directly into the search bar.
 
+Site includes Nav bar with custom made images for the nav.
+This is my Portfolio Project for Computer Science 201 at UW-Green Bay. 
+
+I plan to use and update this more in the future.
