@@ -99,3 +99,21 @@ button#resetButton{
     font-size: large;
     cursor: pointer;
 }
+
+#gameCanvas{
+    background: #fff;
+    display: block;
+    margin: 20px auto;
+    border: 1px solid #000;
+}
+
+#score {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+#gameOver {
+    color: red;
+    font-size: 20px;
+    margin: auto;
+}
