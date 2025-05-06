@@ -22,7 +22,7 @@ let gameRunning = false;
 initGame();
 
 document.addEventListener('keydown', function(e){
-    if(!gameRunning && e.code === 'r'){
+    if(!gameRunning && e.code === 'KeyR'){
         // Restart on R if game over
         initGame();
     } else {
