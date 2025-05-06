@@ -22,8 +22,8 @@ let gameRunning = false;
 initGame();
 
 document.addEventListener('keydown', function(e){
-    if(!gameRunning && e.code === 'Space'){
-        // Restart on SPACE if game over
+    if(!gameRunning && e.code === 'r'){
+        // Restart on R if game over
         initGame();
     } else {
         keyDown(e);
